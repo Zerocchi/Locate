@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locate Me</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="your_location_header">Your Location (Accuracy: %1$d meters)</string>
+</resources>
